@@ -10,31 +10,21 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Database",
+    "Data Science",
+    "Machine Learning",
+    "NLP"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "Bachelor in Engineering"
+  institution = "National Taiwan University"
+  year = 2013
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an undergraduate student at National Taiwna University (NTU). My interests include data analysis and machine learning. Currently, I am now working as a research assistent at the NTU's Speech Processing and Machine Learning Laboratory as well as an intern data analyst at [Junyi Academy](http://english.thealliance.org.tw/junyi-academy.html). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I believe in the saying "Variety is the spice of life." Throughout my teenage years, I have developed a lot of interests. Among all, I especially love playing Go and swimming. At middle school, I got my lifeguard and swimming coach certificate, also, I entered the Taiwan Go Organization for further training to become a professional. 
